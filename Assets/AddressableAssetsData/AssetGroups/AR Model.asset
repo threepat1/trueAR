@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AR Model
+  m_EditorClassIdentifier: 
+  m_GroupName: AR Model
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0c9bff1c6d660c44aaefb81af756e1ba
+  m_SerializeEntries:
+  - m_GUID: d75db7537e2508040a1b93b594d11e3f
+    m_Address: Mesh
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ad7917cb22561b64684a5442e5b13de6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 46ac387e4dee4e4428d79ca1117a5c7b, type: 2}
+    - {fileID: 11400000, guid: 2e7998487cd025048bdcc4d9534950ea, type: 2}

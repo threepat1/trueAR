@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/addresable.unity
+    guid: 508f24f500bff1e40b4b1a2b05d8166b
+  - enabled: 0
+    path: Assets/XRCO/Scenes/Basic/Basic.unity
+    guid: 10cbae73423c84cab9166b92fcd57933
+  - enabled: 1
+    path: Assets/VVR/Scenes/Demo.unity
+    guid: c0a4fedc6dd044d12bd16e8e80ad044a
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 73466cb455b8d5141b0629d661775dba,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 6611ec459e53f34479b37113257fb7c7,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 51c6e2a8a7311024f872836a632132a9,
+      type: 2}

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 23334c6f79d519e44abf1df6070c83aa
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 3f8ef6f66995e33458534d661597c94a
+  m_RemoteCatalogLoadPath:
+    m_Id: 3b41c10114b786640959973ec3d47ef9
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: bddab6d830e26d24faaff1f934d5a236, type: 2}
+  - {fileID: 11400000, guid: a18e177bc4c3a074c86914671dd24260, type: 2}
+  - {fileID: 11400000, guid: 728658886c7a2d04aae413d89e5210d5, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: a6be3eecc6918854b8a8bbc36f888fa6
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 9d1c2be52c144b24e989ab6f58ea35db
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 426a90747b82b4d4c89d023c2e2188c0
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: a28ddb08c5745c74cb6f6bc8faea5181
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 3f8ef6f66995e33458534d661597c94a
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 3b41c10114b786640959973ec3d47ef9
+        m_Value: https://true5gar.webdashboard.online/content/sample/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: b347e4dac6c4df64fab2e6bccb922b8d
+      m_ProfileName: AR Model
+      m_Values:
+      - m_Id: 9d1c2be52c144b24e989ab6f58ea35db
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 426a90747b82b4d4c89d023c2e2188c0
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: a28ddb08c5745c74cb6f6bc8faea5181
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 3f8ef6f66995e33458534d661597c94a
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 3b41c10114b786640959973ec3d47ef9
+        m_Value: https://true5gar.webdashboard.online/content/sample/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 9d1c2be52c144b24e989ab6f58ea35db
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 426a90747b82b4d4c89d023c2e2188c0
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: a28ddb08c5745c74cb6f6bc8faea5181
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 3f8ef6f66995e33458534d661597c94a
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 3b41c10114b786640959973ec3d47ef9
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - Player
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 322c9ad502d394645907e39f108cf6b5, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: fee64aed08eabeb45b2b364a163a684d, type: 2}
+  - {fileID: 11400000, guid: 6cee2c56c6aa9694dbc2268e7bd7ad52, type: 2}
+  - {fileID: 11400000, guid: 7409c4f34139bce4db8c758c52ae635e, type: 2}
+  - {fileID: 11400000, guid: 3b751f83cdf40754fb0d473842ba178f, type: 2}
+  m_ActiveProfileId: b347e4dac6c4df64fab2e6bccb922b8d
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
